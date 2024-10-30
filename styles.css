@@ -45,7 +45,7 @@ body{
 }
 
 .product-card-image{
-    background-image: url(./images/image-product-desktop.jpg);
+    background-image: url(./image/image-product-desktop.jpg);
     background-size: cover;
     width: 50%;
     background-position: center center;
@@ -118,7 +118,7 @@ button{
         align-items: center;
     }
     .product-card-image{
-        background-image: url(/images/image-product-mobile.jpg);
+        background-image: url(/image/image-product-mobile.jpg);
         background-size: cover;
         border-radius: 10px 10px 0 0;
         width: 100%;
