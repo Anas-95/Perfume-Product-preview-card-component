@@ -84,7 +84,7 @@ body{
     margin-bottom: 0.9rem;
 }
 
-.product-card-pricing h3{
+.product-card-pricing h5{
     font-family: var(--font-secondary);
     color: var(--color-primary-cyan);
 }
